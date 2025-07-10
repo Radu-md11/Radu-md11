@@ -11,3 +11,19 @@
     Consistently staying updated with the latest trends and advancements.
   </p>
 </ul>
+
+<h3><strong>🥼 Expertise</strong></h3>
+<ul>
+  <li>
+    Frontend:
+    
+  </li>
+  <li>
+    Backend:
+    
+  </li>
+  <li>
+    Headless CMS:
+    
+  </li>
+</ul>
