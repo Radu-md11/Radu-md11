@@ -17,23 +17,19 @@
   <li>
     Frontend:<br/>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Skills and tools"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,vue,vuetify,nuxtjs,ember,astro" alt="Skills and tools"/>
     </a>
   </li>
   <li>
     Backend:<br/>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,redis" alt="Skills and tools"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,redis,postgres,mongodb,supabase,sequelize,firebase,graphql" alt="Skills and tools"/>
     </a>
-  </li>
-  <li>
-    Headless CMS:<br/>
-    
   </li>
   <li>
     Tools:<br/>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,bitbucket,postman" alt="Skills and tools"/>
+      <img src="https://skillicons.dev/icons?i=github,git,bitbucket,postman,docker,kubernetes" alt="Skills and tools"/>
     </a>
   </li>
 </ul>
