@@ -33,3 +33,13 @@
     </a>
   </li>
 </ul>
+
+<h3><strong>📌Serving Industries</strong></h3>
+<ul>
+  <li>Adtech</li>
+  <li>Fintech</li>
+  <li>E-commerce</li>
+  <li>Mobility / Delivery Services</li>
+  <li>Real Estate</li>
+  <li>Social & Communication Tools </li>   
+</ul>
