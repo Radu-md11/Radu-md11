@@ -12,7 +12,7 @@
   </p>
 </ul>
 
-<h3><strong>🥼 Expertise</strong></h3>
+<h3><strong>:hammer_and_wrench: Languages and Tools</strong></h3>
 <ul>
   <li>
     Frontend:<br/>
@@ -29,7 +29,7 @@
   <li>
     Tools:<br/>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,bitbucket,postman,docker,kubernetes" alt="Skills and tools"/>
+      <img src="https://skillicons.dev/icons?i=github,git,bitbucket,postman,docker,kubernetes,figma,xd" alt="Skills and tools"/>
     </a>
   </li>
 </ul>
