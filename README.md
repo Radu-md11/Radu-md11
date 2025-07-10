@@ -15,15 +15,25 @@
 <h3><strong>🥼 Expertise</strong></h3>
 <ul>
   <li>
-    Frontend:
+    Frontend:<br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Skills and tools"/>
+    </a>
+  </li>
+  <li>
+    Backend:<br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,redis" alt="Skills and tools"/>
+    </a>
+  </li>
+  <li>
+    Headless CMS:<br/>
     
   </li>
   <li>
-    Backend:
-    
-  </li>
-  <li>
-    Headless CMS:
-    
+    Tools:<br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,git,bitbucket,postman" alt="Skills and tools"/>
+    </a>
   </li>
 </ul>
