@@ -43,3 +43,11 @@
   <li>Real Estate</li>
   <li>Social & Communication Tools </li>   
 </ul>
+
+<h3><strong>🌟 My hobbies and interests</strong> </h3>
+<ul>
+  <li>🎧 **Listening Music**</li>
+  <li>⚽ **Football**</li>
+</ul>
+<hr/>
+<h3 align="center">❤Thanks for visiting my profile❤</h3>
